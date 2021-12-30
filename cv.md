@@ -1,6 +1,6 @@
 #  Vitali Antsipenka
 ---
-![](img.jpg)
+![](IMG_4620.jpg)
 --- 
 ## Contacts
  * ___Location:___ Gomel, Belarus
