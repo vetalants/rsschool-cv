@@ -27,7 +27,7 @@ ___I think one of my greatest strengths is as a problem solver.___
 ---
 ## Education
  * **University:** FRANCISK SKORINA GOMEL STATE UNIVERSITY (2015-2019)
- **Faculty:** FACULTY OF PHYSICAL CULTURE
+ * **Faculty:** FACULTY OF PHYSICAL CULTURE
  ---
 ## Languages:
 * ___Russian___: Native
