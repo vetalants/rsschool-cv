@@ -11,25 +11,27 @@
  * ___Telegram:___ @vetal_ants
  ---
 ## About me
-___I think one of my greatest strengths is as a problem solver.___
+ ___I think one of my greatest strengths is as a problem solver.___
 
----
+ ---
 ## Skills
 * ___HTML___
 * ___CSS___
 * ___JavaScript___
 * ___GIT___
----
+* ___Figma___
+
+ ---
 ## Code Example
-```
-```
----
+ ```
+ ```
+ ---
 ## I don't have work experience
----
+ ---
 ## Education
  * **University:** FRANCISK SKORINA GOMEL STATE UNIVERSITY (2015-2019)
  * **Faculty:** FACULTY OF PHYSICAL CULTURE
----
+ ---
 ## Languages:
-* ___Russian___: Native
-* ___English level:___ A2. I keep learning
+ * ___Russian___: Native
+ * ___English level:___ A2. I keep learning
