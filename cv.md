@@ -11,6 +11,7 @@
  * ___Telegram:___ @vetal_ants
  
  ---
+ 
 ## About me
  ___I think one of my greatest strengths is as a problem solver.___
 
@@ -34,6 +35,6 @@
  * **Faculty:** FACULTY OF PHYSICAL CULTURE
  
  ---
-## Languages:
+## Languages
  * ___Russian___: Native
  * ___English level:___ A2. I keep learning
